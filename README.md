@@ -50,7 +50,7 @@ The regression uses five years of weekly data for Europris and the Oslo Børs Be
 
 The Blume-adjusted beta is used in the cost-of-equity calculation. The low R-squared indicates that Europris’s low beta primarily reflects its weak correlation with OSEBX rather than low total share-price risk.
 
-## Assumptions – What the result says
+## Assumptions - What the result says
 
 The model uses a WACC of **7.44%**. This is the CAPM-based result before adding any size, liquidity or company-specific premium.
 
@@ -68,7 +68,7 @@ The equity weight is based on Europris’s market capitalisation. Debt is repres
 
 Every input is documented and none was selected simply to produce a particular valuation result. Because the regression has a low R-squared, the 7.44% WACC should be interpreted as the lower end of a defensible range rather than as a precise estimate. The sensitivity analysis is therefore treated as a primary output of the model.
 
-## DCF – What the result says
+## DCF - What the result says
 
 At a WACC of **7.44%** and terminal growth of **2.5%**, the model produces:
 
