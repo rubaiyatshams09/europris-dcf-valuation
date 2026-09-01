@@ -17,6 +17,28 @@ The Excel workbook includes:
 - WACC calculation
 - Valuation sensitivity analysis
 
+## Workbook preview
+
+### Forecast income statement
+
+![Europris forecast income statement](screenshots/forecast-income-statement.png)
+
+### Assumptions and WACC
+
+![Europris assumptions and WACC](screenshots/assumptions-wacc.png)
+
+### DCF valuation
+
+![Europris DCF valuation bridge](screenshots/dcf-valuation.png)
+
+### Sensitivity analysis
+
+![Europris valuation sensitivity analysis](screenshots/sensitivity-analysis.png)
+
+### Beta regression
+
+![Europris beta regression](screenshots/beta-regression.png)
+
 ## Beta regression
 
 The regression uses five years of weekly data for Europris and the Oslo Børs Benchmark Index.
